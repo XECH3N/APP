@@ -1,0 +1,9 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://oshaquick.com/sitemap.xml
+
+# Disallow sensitive paths
+Disallow: /admin/
+Disallow: /internal/
